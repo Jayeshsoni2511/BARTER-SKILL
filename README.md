@@ -250,6 +250,4 @@ Detailed configuration instructions, environment synchronization, and rollback p
 
 ---
 
-## Author & Acknowledgements
 
-Created and engineered by **[Yug Patel](https://github.com/Yugpatel-09)** · [LinkedIn Profile](https://linkedin.com/in/yug-patel-profile)
