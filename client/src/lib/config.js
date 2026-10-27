@@ -1,7 +1,7 @@
 // Where the API server lives. One setting for REST, Socket.IO and PeerJS.
 //   development: http://localhost:5000 (REST still goes through the Vite proxy)
 //   production:  your Render URL, set as VITE_SERVER_URL in the Vercel dashboard
-const SERVER_URL = (import.meta.env.VITE_SERVER_URL || "").replace(/\/+$/, "");
+const SERVER_URL = "https://barter-skill-1u5g.onrender.com";
 
 if (import.meta.env.PROD && !SERVER_URL) {
   console.error("VITE_SERVER_URL is not set. Set it to the API server's URL in your hosting dashboard and redeploy.");
