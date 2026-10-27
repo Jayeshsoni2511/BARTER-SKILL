@@ -6,6 +6,8 @@
 
 Swap your expertise for skills you've always wanted to master. Teach for an hour, gain an hour credit, and invest it into 1-on-1 mentorship with peers across the globe. Zero financial transactions, zero subscriptions—everything happens natively within an interactive virtual workspace featuring real-time video, screen sharing, shared canvas whiteboarding, and persistent chat.
 
+Live running video : https://drive.google.com/drive/folders/1IRspUFqSfFCMIBe_vpn1ENFiMvoAft_C?usp=drive_link
+
 [**Launch Application**](https://skillbarter-web.vercel.app) · [Product Overview](docs/PRODUCT.md) · [PRD Specification](docs/PRD.md) · [Architecture Guide](docs/TECHNICAL.md) · [Deployment Runbook](docs/DEPLOYMENT.md)
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Yugpatel-09/BARTER-SKILL)
